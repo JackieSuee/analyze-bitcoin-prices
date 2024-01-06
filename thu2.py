@@ -5,7 +5,7 @@ import json
 import streamlit as st
 
 # thêm api key 
-api_key = "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"
+api_key = "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"
 client = OpenAI(api_key=api_key)
 
 
